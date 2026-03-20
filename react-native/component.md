@@ -19,12 +19,12 @@ Component adalah **blok bangunan utama** di React Native. Bayangkan seperti "leg
 ## Jenis Jenis Component
 Dalam React native terdapat component penting pembentuk view nya. berikut merupakan component penting yang harus di mengerti.
 1. [Stack](#1-stack-component)
-2. [Tabs](#tabs-component)
-3. [View](#view-component)
-4. [Text](#text-component)
-5. [TextInput](#text-input-component)
-6. [ActivityIndicator](#activity-indicator)
-7. [Button](#button-component)
+2. [Tabs](#2-tabs-component)
+3. [View](#3-view-component)
+4. [Text](#4-text-component)
+5. [TextInput](#5-textinput-component)
+6. [ActivityIndicator](#6-activityindicator)
+7. [Button](#7-button-component)
 ___
 ### **1. Stack Component**
 **Stack** merupakan component yang ditaruh di file `_layout.tsx`. di file tersebut bertujuan untuk mengatur layout tampilan view yang ingin di tampilkan, salah satunya **Stack Component** ditempatkan disitu. berikut contoh bentuk Stack Component.
