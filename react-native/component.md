@@ -18,7 +18,7 @@ Component adalah **blok bangunan utama** di React Native. Bayangkan seperti "leg
 ---
 ## Jenis Jenis Component
 Dalam React native terdapat component penting pembentuk view nya. berikut merupakan component penting yang harus di mengerti.
-1. [Stack](#stack-component)
+1. [Stack](#1-stack-component)
 2. [Tabs](#tabs-component)
 3. [View](#view-component)
 4. [Text](#text-component)
