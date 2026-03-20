@@ -12,7 +12,9 @@
  
 ---
 ## Apa itu Component?
+
 Component adalah **blok bangunan utama** di React Native. Bayangkan seperti "lego" — setiap bagian UI (tombol, teks, gambar) adalah sebuah component yang bisa digabungkan.
+
 ---
 ## Jenis Jenis Component
 Dalam React native terdapat component penting pembentuk view nya. berikut merupakan component penting yang harus di mengerti.
